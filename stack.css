@@ -1,0 +1,405 @@
+#container{
+    margin: 0% auto;
+    width: 100%;
+    
+}
+#header {
+    
+    height: 100px;
+    padding: 3px 85px 3px;
+    padding-left: 85px;
+    
+}
+#xol {
+    width: 150px;
+}
+#nav {
+    text-decoration: none;
+    float: right;
+}
+#nav a { 
+    color: black;
+    padding: 0%;
+    border: none;
+    font-size: 21px;
+    top: 30px;
+    position: relative;
+    text-decoration-line: none;
+}
+#ea {
+    color: white;    
+    background:linear-gradient(to left, #eba308b9, #795e06ee) ;
+}
+#ea div{
+    padding-top: 125px;
+    padding-bottom: 125px;
+    padding-left: 85px;
+}
+#ea div h1{
+    line-height: 50px;
+    position: relative;
+    max-width: 35%;
+    font-size: 55px;
+    bottom: 25px;
+}
+#ea div h2 {
+    position: relative;
+    line-height: 35px;
+    max-width: 55%;
+    bottom: 55px;
+}
+#ad {
+    height: 100px;
+    background-color: #d6e9e9;
+    text-align: center;
+    color: darkblue;
+}
+#ad a {
+    text-decoration: none;
+    background-color: aquamarine;
+    color: darkblue;
+    padding: 15px 50px 12px;
+    border: none;
+}
+#he { 
+    line-height: 18px;
+    position: relative;
+    padding: 100px;
+    height: 350px;
+    
+}
+#hey2 {
+    width: 40px;
+    height: 40px;
+    
+}
+#he div h4, #ge div h4 {
+    color: #0c0b7a;
+    font-size: 20PX ;
+}
+
+#float {
+    position: relative;
+    background-color: #d6e9e9;
+    width: 190px;
+    height: 160px;
+    left: 4px;
+    text-align: center;
+    font-size: 16px;
+    padding: 25px 63px 40px;
+    float: left;
+}#float3 {
+    position: relative;
+    background-color: #d6e9e9;
+    width: 190px; 
+    left: 80px;
+    height: 160px;
+    text-align: center;
+    font-size: 16px;
+    padding: 25px 63px 40px;
+    float: left;
+}#float2 {
+    position: relative;
+    background-color: #d6e9e9;
+    width: 190px;
+    left: 40px;
+    height: 160px;
+    text-align: center;
+    font-size: 16px;
+    padding: 25px 63px 40px;
+    float: left;
+}
+#dfloat{
+    position: relative;
+    background-color: #d6e9e9;
+    width: 190px;
+    height: 290px;
+    left: 108px;
+    bottom: 195px;
+    text-align: center;
+    font-size: 16px;
+    padding: 25px 63px 40px;
+    float: left;
+} 
+#dfloat2 {
+    position: relative;
+    background-color: #d6e9e9;
+    width: 190px;
+    height: 290px;
+    left: 140px;
+    bottom: 230px;
+    text-align: center;
+    font-size: 16px;
+    padding: 25px 63px 40px;
+    float: left;
+}
+#dfloat2 a, #float3 a, #why a {
+    color: #0b6136;
+    font-size: 19px;
+}
+#sa {
+    font-size: 17px;
+    line-height: 30px;
+    color: orange;
+}
+#as {
+    text-align: left;
+    color: black;
+}
+#de h2{
+    text-align: center;
+    color: #0c0b7a;
+
+}
+#hey {
+    width: 25px;
+    height: 20px; 
+}
+
+#hay {
+    position: relative;
+    float: left;
+    width: 45%;
+    line-height: 27px;
+
+} 
+#why {
+    position: relative;
+    float: right;
+    width: 46%;
+    line-height: 27px;
+}
+
+#de{
+    position: relative;
+    height: 600px;
+    width: 100%;
+    background-color: #d6e9e9;
+    padding: 85px; 
+    font-size: 16px;
+}
+
+#no{
+    width: 400px;
+
+}
+
+.fv {
+    position: relative;
+    width: 93%;
+    float: left;
+}
+#fv {
+    line-height: normal;
+    position: relative;
+    border: 4px solid #d6e9e9;
+    background-color: white;
+    padding: 15px 4px 15px;
+    padding-left: 37px;
+    width: 93.3%;
+    float: left; 
+
+}
+.box{
+    width :7%;
+    position: relative;
+    vertical-align: middle;
+    float: right;
+}
+#er {
+    position: relative;
+    height: 700px;
+    width: 100%;
+    padding: 85px; 
+    font-size: 15px;
+
+}
+#hoy {
+    position: relative;
+    float: left;
+    width: 45%;
+}
+#hoy h1 {
+    position: absolute;
+    z-index: 1;
+    bottom: 50px;
+    padding-left: 40px;
+    font-size: 42px;
+
+}
+#er h2 {
+    text-align: center;
+    color: #0c0b7a;
+}
+#web h3 {
+    font-size: 18px;
+    color: #0c0b7a;
+}
+#wy{
+    position: relative;
+    float: right;
+    width: 49%;
+}
+#pro {
+    position: relative;
+    background-color: #d6e9e9;
+    border: 4px solid white;
+    padding: 10px 30px 15px;
+    padding-left: 30px;
+    float: left;
+
+
+}
+#com {
+    position: relative;
+    top: 20px;
+    float: left;
+}
+#web {
+    position: relative;
+    float: right;
+    width: 83%;
+    line-height: 25px;
+    vertical-align: top;
+}
+#ot {
+    position: relative;
+    z-index: -1;
+    width: 520px;
+    height: 800px;
+}
+#hr {
+    background-color: #d6e9e9;
+    padding: 85px;
+    width: 100%;
+    line-height: 20px;
+}
+#hr h2 {
+    text-align: center;
+    color: #0c0b7a;
+}
+#sol {
+    float: right;
+    width: 100px;
+}
+#stu {
+    float: left;
+    font-size: 12px;
+    background-color: white;
+    width: 27.4%;
+    height:195px;
+    padding: 0px 21px 10px;
+    padding-left: 20px;
+
+}
+#stu1 {
+    position: relative;
+    float: left;
+    font-size: 12px;
+    background-color: white;
+    width: 27.4%;
+    height: 195px;
+    left: 35px;
+    padding: 0px 21px 10px;
+    padding-left: 20px;
+    
+}
+#stu2 {
+    float: right;
+    font-size: 12px;
+    background-color: white;
+    width: 27.4%;
+    height: 195px;
+    padding: 0px 21px 10px;
+    padding-left: 20px;
+    
+}
+#hr h4 {
+    position: relative;
+    color: #0c0b7a;
+    font-size: 16px;
+}
+#he1 p {
+    color: black;
+}
+#he1 {
+    width: 100%;
+    padding: 85px;
+    color: #0c0b7a;
+    line-height: 30px;
+}
+#ds {
+    float: left;
+    width: 30%;
+}
+#sps {
+    float: right;
+    width: 51.5%;
+
+}
+#oh {   
+    width: 59%;
+    float: left;
+}
+#ho {
+    position: relative;
+    width: 59%;
+    float: right;
+    left: 50px;
+    top: -70px;
+    
+}
+#oh1 {   
+    width: 59%;
+    float: left;
+}
+#ho1 {
+    width: 59%;
+    float: right;
+}
+#oh2 {   
+    width: 59%;
+    float: left;
+}
+#ho2 {
+    width: 59%;
+    float: right;
+}
+#dpf {
+    width: 50px;
+    float: left;
+}
+#dc {
+    position: relative;
+    width: 43.5%; 
+    float: left;
+    left: 30px;
+    line-height:20px ;
+}
+.ea {
+    background-color: #0c0b7a;
+    padding: 85px;
+    color: white;
+}
+.ea a {
+    color: white;
+    text-decoration: none;
+}
+#foo {
+    position: relative;
+    font-size: 20px;
+    line-height: 30px;
+    float: left;
+    left: 100px;
+}
+#eff {
+    float: left;
+    font-size: 22px;
+}
+#ter {
+    font-size: 20px;
+    line-height: 10px;
+    float: right;
+}
+
+
